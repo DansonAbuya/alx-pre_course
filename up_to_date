@@ -1,1 +1,1 @@
-echo upadate >README.md
+git pull origin master
